@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Bettie27/Bettie27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Retail & Finance Analytics | Commercial Insight | Data Storytelling
 
-Here are some ideas to get you started:
+I work with messy transactional data and turn it into clear commercial decisions.
+My focus is on pricing, demand, customer behaviour, and performance diagnostics in retail and payments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- Retail sales analysis (price vs volume, mix, demand risk)
+- Payments & transaction behaviour (M-Pesa, micro-transactions, revenue drivers)
+- Exploratory analysis with commercial narratives, not dashboards-for-the-sake-of-it
+
+### Tools
+Python · R · SQL · PowerBI · Excel
+
+### Selected work
+⬇️ See pinned repositories below
